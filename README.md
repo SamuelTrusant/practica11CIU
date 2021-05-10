@@ -9,3 +9,4 @@ La memoria se puede encontrar en [Memoria](https://github.com/SamuelTrusant/prac
 - Leopoldo López Reverón
 - Jonay Suárez Ramírez
 - Samuel Trujillo Santana
+
