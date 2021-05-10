@@ -1,5 +1,7 @@
 // C++ code
-//
+// authors: Mario Ferrero Fernández, Leopoldo López Reverón, 
+// Jonay Suárez Ramírez y Samuel Trujillo Santana
+
 
 float f = 0;
 float aux = 0;
